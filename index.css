@@ -1,0 +1,35 @@
+header{
+  background: #c86297;
+  colour:white;
+  text-align: center;
+  margin:1%;
+  pdding:2%;
+  font-size: 300%;
+  font-weight: 600;
+  border: 2px solid black;
+  box-shadow: 2px 5px black;
+
+}
+a img{
+  display:block;
+  margin:1% 3% 0 auto;
+  width:20%;
+  height:100;
+}
+child img{
+   width:450px;
+  display:300px;
+  text-align: center;
+}
+.child{
+  background:  #c86297;
+  font-size: 300%;
+  width:70%;
+  text-align: center;
+  border:2px solid black;
+
+}
+.parent{
+  display: flex;
+}
+}

@@ -1,0 +1,23 @@
+body{
+  background: lightgreen;
+}
+.main{
+  width:95%;
+  background:#ffefd5;
+  display:flex;
+margin:1%;
+}
+.left{
+  background: red;
+  padding:5%;
+  margin:2%;
+justify-content: space-around;
+
+}
+.right{
+  background:green;
+  padding: 5%;
+  margin:2%;
+  justify-content: space-around;
+
+}
